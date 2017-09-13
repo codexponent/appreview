@@ -1,0 +1,69 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #000000;
+}
+
+h1{
+	display: block;
+	font-family: Hill House;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 2.75em;
+}
+
+#images{
+	width: 1366px;
+}
+.otherimage{
+	margin-top: -22px;
+}
+
+#firsttext{
+	color: white;
+	position: absolute;
+	font-size: 4.25em;
+	font-family: Hill House;
+	margin: -84px 0px 0px 1114px;
+}
+
+.textlink:link, .textlink:visited{
+	text-decoration: none;
+} 
+
+.textlink:hover, .textlink:active{
+	color: #666699;
+}
+
+
+#low_footer{
+	color: white;
+	clear:both;
+	border-top: 2px solid Teal;
+	margin-top: -22px;
+	font-family: Californian FB;
+	padding: 8px 5px 5px 16px;
+}
+
+li{
+	float: left;
+	list-style: none;
+}
+
+.sublist{
+	text-decoration: none;
+	color: white;
+}
+
+#lastlist{
+	clear: both;
+}
+
+#last_sentence{
+	clear: both;
+	text-align: center;
+}

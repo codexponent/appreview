@@ -1,0 +1,173 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #BABABA;	
+}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/* This is For The heading Tag */
+#heading{
+	display: block;
+	font-family: Hill House;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: black;
+}
+
+#heading:link, #heading:visited{
+	text-decoration: none;
+} 
+
+#heading:hover, #heading:active{
+	color: #666699;
+}
+/* This is For The heading Tag */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/* This is For The Image Tag */
+#image{
+	margin-top: -2px;
+}
+/* This is For The Image Tag */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/* This is for the List Tag*/
+#nav{
+	width: 1366px;
+}
+
+#nav ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;   
+	color: #FFFFFF;
+	background-color: black;
+}
+
+#nav li{
+	float: left;
+}
+
+.appList{
+	display: block;
+	color: #FFFFFF;	
+	background-color: #000000;
+	text-align: center;
+	font-family: Hill House;
+	font-size: 1.25em;
+	width: auto;
+	text-align: center;
+	padding: 2px 5px 2px 5px;
+	margin-left: 43px;
+}
+
+.appList:link, .appList:visited{
+	text-decoration: none;
+} 
+
+.appList:hover, .appList:active{
+	color: #666699;
+}
+/* This is for the List Tag*/
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/* This is the Code for the Main Content */
+#description{
+	margin-top: -40px;
+	width: 1366px;
+}
+
+.firstline{
+	clear: both;
+}
+
+.firsticon{
+	display: block;
+	float: left;
+	margin: 40px 15px 15px 15px;
+}
+	
+p.firstparagraph{
+	display: block;
+	float: left;
+	line-height: 1.25em;
+	font-family: Times New Roman;
+	margin-left: 21px;
+	padding: 0px;
+	border: 2px solid white;
+	margin-top: 40px;
+	width: 1050px;
+	height: 155px;
+	padding: 9px 9px 9px 9px;
+	
+}
+
+.icon{
+	display: block;
+	float: left;
+	margin: -13px 15px 15px 15px;
+}
+	
+p.paragraph{
+	display: block;
+	float: left;
+	line-height: 1.25em;
+	font-family: Times New Roman;
+	margin-left: 21px;
+	padding: 0px;
+	border: 2px solid white;
+	margin-top: -13px;
+	width: 1050px;
+	height: 155px;
+	padding: 9px 9px 9px 9px;
+	
+}
+
+.line{
+	clear: both;
+}
+/* This is the Code for the Main Content */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/* This is the Code for the footer */
+#low_footer{
+	color: white;
+	clear:both;
+	border-top: 2px solid Teal;
+	margin-top: -22px;
+	font-family: Californian FB;
+	padding: 8px 5px 5px 16px;
+}
+
+li{
+	float: left;
+	list-style: none;
+}
+
+.sublist{
+	text-decoration: none;
+	color: white;
+}
+
+#lastlist{
+	clear: both;
+}
+
+#last_sentence{
+	clear: both;
+	text-align: center;
+}
+/* This is the Code for the footer */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
